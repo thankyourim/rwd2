@@ -195,7 +195,7 @@ font-weight: bold;
 .container .inner-container .index .sections .section.sec2 .sec-con .p-con{
   /* border: 1px solid; */
   box-sizing: border-box;
-  padding: 30px 0;
+  padding: 50px 0;
 }
 .container .inner-container .index .sections .section.sec2 .sec-con .p-con p{
   text-align: center;
@@ -203,12 +203,13 @@ font-weight: bold;
 .container .inner-container .index .sections .section.sec2 .sec-con .p-con p.p1{
   font-size: 1.5rem;
   font-weight: bold;
-  padding: 10px;
+  padding: 20px;
 }
 .container .inner-container .index .sections .section.sec2 .sec-con .p-con p.p2{
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-style: italic;
   line-height: 30px;
+  padding: 10px;
 }
 .container .inner-container .index .sections .section.sec2 .sec-con .p-con p.p3{
   line-height: 20px;
