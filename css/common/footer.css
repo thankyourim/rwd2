@@ -113,6 +113,7 @@
 }
 
 span.sns{
+  font-weight: bold;
   font-size: 1rem;
   display: flex;
   justify-content: flex-end;
